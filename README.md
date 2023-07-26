@@ -25,6 +25,7 @@ Install Docker on your machine: [Docker Installation Guide ](https://docs.docker
   `docker build -t movie-review-website .`
 
 - Run the container:
+
   `docker run -p 3000:3000 movie-review-website`
 
 Open your web browser and visit http://localhost:3000 to access the Movie Review Website.
