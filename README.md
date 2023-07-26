@@ -14,18 +14,18 @@ Install Docker on your machine: [Docker Installation Guide ](https://docs.docker
 
 - Clone this repository:
 
-- `git clone https://github.com/BrayanDH/Movie-Reviews-Database`
+  `git clone https://github.com/BrayanDH/Movie-Reviews-Database`
 
 - Navigate to the project directory:
 
-- `cd Movie-Reviews-Database`
+  `cd Movie-Reviews-Database`
 
 - Build the Docker container:
 
-- `docker build -t movie-review-website .`
+  `docker build -t movie-review-website .`
 
 - Run the container:
-- `docker run -p 3000:3000 movie-review-website`
+  `docker run -p 3000:3000 movie-review-website`
 
 Open your web browser and visit http://localhost:3000 to access the Movie Review Website.
 
