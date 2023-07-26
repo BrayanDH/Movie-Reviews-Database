@@ -8,24 +8,24 @@ This project is a Movie Review Website developed using Express, a popular web ap
 - Rating System: Users can rate movies and view the overall rating.
 - User Authentication: Secure user authentication to manage reviews and ratings.
 
-To run the Movie Review Website locally, follow these steps:
+## To run the Movie Review Website locally, follow these steps:
 
-Install Docker on your machine: Docker Installation Guide
+Install Docker on your machine: [Docker Installation Guide ](https://docs.docker.com/engine/install/)
 
-Clone this repository:
+- Clone this repository:
 
-`git clone https://github.com/BrayanDH/Movie-Reviews-Database`
+- `git clone https://github.com/BrayanDH/Movie-Reviews-Database`
 
-Navigate to the project directory:
+- Navigate to the project directory:
 
-`cd Movie-Reviews-Database`
+- `cd Movie-Reviews-Database`
 
-Build the Docker container:
+- Build the Docker container:
 
-`docker build -t movie-review-website .`
+- `docker build -t movie-review-website .`
 
-Run the container:
-`docker run -p 3000:3000 movie-review-website`
+- Run the container:
+- `docker run -p 3000:3000 movie-review-website`
 
 Open your web browser and visit http://localhost:3000 to access the Movie Review Website.
 
