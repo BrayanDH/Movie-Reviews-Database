@@ -4,9 +4,9 @@ This project is a Movie Review Website developed using Express, a popular web ap
 
 # Features
 
-Movie Reviews: Users can read and submit movie reviews.
-Rating System: Users can rate movies and view the overall rating.
-User Authentication: Secure user authentication to manage reviews and ratings.
+- Movie Reviews: Users can read and submit movie reviews.
+- Rating System: Users can rate movies and view the overall rating.
+- User Authentication: Secure user authentication to manage reviews and ratings.
 
 To run the Movie Review Website locally, follow these steps:
 
@@ -33,11 +33,11 @@ Open your web browser and visit http://localhost:3000 to access the Movie Review
 
 The Movie Review Website utilizes the following dependencies:
 
-Express
-Cloudant
-EJS (Embedded JavaScript) templating engine
-Docker
-Please refer to the package.json file for the complete list of dependencies and their versions.
+- Express
+- Cloudant
+- EJS (Embedded JavaScript) templating engine
+- Docker
+  Please refer to the package.json file for the complete list of dependencies and their versions.
 
 # Contributing
 
